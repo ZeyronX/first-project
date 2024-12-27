@@ -7,7 +7,7 @@ body {
     padding: 0px;
 }
 
-div.product-card {
+.product-card {
     display: block;
     background-color: #F7F7FA;
     list-style-type: none;
