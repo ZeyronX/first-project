@@ -1,0 +1,10 @@
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+}
+
+body {
+    color: #515076;
+    font-family: Arial, sans-serif;
+}
