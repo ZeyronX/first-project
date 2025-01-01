@@ -1,19 +1,14 @@
 .card {
-<<<<<<< HEAD
-    background-color: #F7F7FA;
-    padding: 25px;
-    width: 100%;
-=======
-    width: 100%;
-    background-color: #F7F7FA;
+    background-color: #5150761A;
     padding: 25px;
     color: #515076;
->>>>>>> 10f6560b919fc9e4019d0c1dac72ef9fce4230dd
+    width: 100%;
+    margin: 0px;
+    
 }
 
 .card__image {
     display: block;
-<<<<<<< HEAD
     width: 340px;
 }
 
@@ -21,62 +16,34 @@
     font-size: 13px;
     line-height: 18px;
     color: #A5A3B9;
-=======
-    width: 290px;
-    height: 245px;
-    margin-bottom: 25px;
-}
-.card__category {
-    color: #A5A3B9;
-    font-size: 12px;
-    line-height: 24px;
->>>>>>> 10f6560b919fc9e4019d0c1dac72ef9fce4230dd
     text-transform: uppercase;
 }
 
 .card__name {
     font-size: 20px;
     line-height: 27px;
-<<<<<<< HEAD
     margin: 0x;
-=======
-    margin: 0px;
-    padding-top: 10px;
->>>>>>> 10f6560b919fc9e4019d0c1dac72ef9fce4230dd
 }
 
 .card__discription {
     font-size: 13px;
     line-height: 18px;
-<<<<<<< HEAD
     color: #515076;
-    margin-top: 5px;
-    margin-bottom: 15px;
+    margin: 0px;
 }
 
-.card__description p:first-child {
-    margin-top: 0px;
+.card__discription p {
+    margin: 0px;
 }
 
-.card__description p {
-    margin-bottom: 15px;
-}
-
-.card--blue {
-    background-color: blue;
-}
-=======
+.card__discription p:last-child {
+    margin-bottom: 18px;
 }
 
 .card__price {
     display: flex;
     justify-content: space-between;
-    font-size: 20px;
-    line-height: 24px;
     padding-top: 25px;
+    font-size: 13px;
+    line-height: 18px;
 }
-
-.card__compound {
-    
-}
->>>>>>> 10f6560b919fc9e4019d0c1dac72ef9fce4230dd
