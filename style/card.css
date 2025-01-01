@@ -1,0 +1,43 @@
+.card {
+    background-color: #F7F7FA;
+    padding: 25px;
+    width: 100%;
+}
+
+.card__image {
+    display: block;
+    width: 340px;
+}
+
+.card__caterory {
+    font-size: 13px;
+    line-height: 18px;
+    color: #A5A3B9;
+    text-transform: uppercase;
+}
+
+.card__name {
+    font-size: 20px;
+    line-height: 27px;
+    margin: 0x;
+}
+
+.card__discription {
+    font-size: 13px;
+    line-height: 18px;
+    color: #515076;
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+
+.card__description p:first-child {
+    margin-top: 0px;
+}
+
+.card__description p {
+    margin-bottom: 15px;
+}
+
+.card--blue {
+    background-color: blue;
+}
