@@ -1,5 +1,10 @@
 .clear-list {
     list-style-type: none;
+<<<<<<< HEAD
     padding: 0px;
     margin: 0px;
+=======
+    margin: 0px;
+    padding: 0px;
+>>>>>>> 10f6560b919fc9e4019d0c1dac72ef9fce4230dd
 }
