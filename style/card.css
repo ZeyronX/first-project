@@ -1,12 +1,12 @@
 .card {
     background-color: #F7F7FA;
-    width: 100%;
-    background-color: #F7F7FA;
     color: #515076;
+    width: 100%;
+    font-size: 13px;
+    line-height: 18px;
 }
 
 .card__image {
-    display: block;
     width: 290px;
     height: 245px;
     margin-bottom: 25px;
@@ -27,8 +27,6 @@
 }
 
 .card__discription {
-    font-size: 13px;
-    line-height: 18px;
     color: #515076;
     margin-top: 5px;
     margin-bottom: 15px;
@@ -43,5 +41,4 @@
     justify-content: space-between;
     font-size: 20px;
     line-height: 24px;
-    padding-top: 25px;
 }
