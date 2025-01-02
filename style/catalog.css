@@ -1,14 +1,12 @@
 .catalog__container {
-    background-color: aqua;
+    background-image: url(../img/bg.png);
     background-repeat: no-repeats;
     background-position: 0 0;
-    padding-bottom: 1px;
+    width: 1110px;
+    margin-top: 170px;
 }
 
 .catalog__title {
-    padding-top: 220px;
-    padding-left: 132px;
-    padding-right: 188px;
-    padding-bottom: 110px;
+    margin-top: 50px;
+    margin-bottom: 110px;
 }
-
