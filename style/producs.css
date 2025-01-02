@@ -5,7 +5,7 @@
     gap: 45px;
   }
   
-  .products__item {
-      width: 340px;
+.products__item {
+      padding: 25px;
   }
   

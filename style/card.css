@@ -1,15 +1,14 @@
 .card {
-    background-color: #5150761A;
-    padding: 25px;
+    background-color: #F7F7FA;
     color: #515076;
-    width: 100%;
+    width: 340px;
     margin: 0px;
-    
 }
 
 .card__image {
     display: block;
-    width: 340px;
+    width: 290px;
+    height: 245px;
 }
 
 .card__caterory {
@@ -33,7 +32,7 @@
 }
 
 .card__discription p {
-    margin: 0px;
+    margin: 0;
 }
 
 .card__discription p:last-child {
@@ -44,6 +43,6 @@
     display: flex;
     justify-content: space-between;
     padding-top: 25px;
-    font-size: 13px;
-    line-height: 18px;
+    font-size: 20px;
+    line-height: 24px;
 }
