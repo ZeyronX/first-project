@@ -1,18 +1,20 @@
 .card {
     background-color: #F7F7FA;
-    padding: 25px;
     width: 100%;
+    background-color: #F7F7FA;
+    color: #515076;
 }
 
 .card__image {
     display: block;
-    width: 340px;
+    width: 290px;
+    height: 245px;
+    margin-bottom: 25px;
 }
-
-.card__caterory {
-    font-size: 13px;
-    line-height: 18px;
+.card__category {
     color: #A5A3B9;
+    font-size: 12px;
+    line-height: 24px;
     text-transform: uppercase;
 }
 
@@ -20,6 +22,8 @@
     font-size: 20px;
     line-height: 27px;
     margin: 0x;
+    margin: 0px;
+    padding-top: 10px;
 }
 
 .card__discription {
@@ -30,14 +34,14 @@
     margin-bottom: 15px;
 }
 
-.card__description p:first-child {
-    margin-top: 0px;
-}
-
 .card__description p {
     margin-bottom: 15px;
 }
 
-.card--blue {
-    background-color: blue;
+.card__price {
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+    line-height: 24px;
+    padding-top: 25px;
 }
