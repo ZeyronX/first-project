@@ -1,9 +1,5 @@
 .catalog__container {
-    background-image: url(../img/bg.png);
-    background-repeat: no-repeats;
-    background-position: 0 0;
-    width: 1110px;
-    margin-top: 170px;
+    padding-top: 170px;
 }
 
 .catalog__title {

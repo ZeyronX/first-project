@@ -1,4 +1,13 @@
 .container {
-    width: 100%;
+    width: 1140px;
     margin: 0px auto;
+}
+
+.test {
+    width: 1140px;
+    margin: 0px auto;
+    background-image: url(../img/bg_1.png);
+    background-repeat: no-repeats;
+    background-position-x: left;
+    background-position-y: top;
 }
